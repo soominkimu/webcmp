@@ -1,0 +1,12 @@
+/target/
+
+.vscode/
+.vs/
+.idea/
+
+Thumbs.db
+Desktop.ini
+
+*.log
+*.tmp
+*.temp

@@ -1,0 +1,20 @@
+[package]
+name = "webcmp"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1"
+sha2 = "0.10"
+
+# JavaScript
+oxc_allocator = "0.92"
+oxc_parser = "0.92"
+oxc_span = "0.92"
+
+# HTML
+html5ever = "0.35"
+markup5ever_rcdom = "0.35"
+
+# CSS
+lightningcss = "1.0.0-alpha.72"
